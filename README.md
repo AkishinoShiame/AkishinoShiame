@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <div style="background: black !importent;color: green !importent;">
-  AkishinoShiame@GitHub ~ % UserInfo -a
-  - 🔭 I’m currently working on ...
-  AkishinoShiame@GitHub ~ % ▮
+  AkishinoShiame@GitHub ~ % UserInfo -a <br>
+  - 🔭 I’m currently working on ... <br>
+  AkishinoShiame@GitHub ~ % ▮ <br>
 </div>
