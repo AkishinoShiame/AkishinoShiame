@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   | Catagory                        | Repos                           |
   =====================================================================
   | I’m currently working on ...    |                                 |
-  |                                 ├ `[AkishinoShiame/UgokuIT](https://github.com/AkishinoShiame/UgokuIT)`          |
+  |                                 ├ AkishinoShiame/UgokuIT          |
   |                                 ├ AkishinoShiame/Sekai-Tuna-Story |
   |                                 ├ AkishinoShiame/Sekai-Tuna       |
   |                                 └ AkishinoShiame/Project-Sakura   |
