@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div style="background: black;color: green;">
+<div style="background: black !importent;color: green !importent;">
   AkishinoShiame@GitHub ~ % UserInfo -a
   
   AkishinoShiame@GitHub ~ % ▮
