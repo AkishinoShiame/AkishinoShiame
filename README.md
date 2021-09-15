@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-<style>
-.terminal-mac {
-    background: black;
-    color: green
-}
-
-<div class="terminal-mac">
+<div style="background: black;color: green;">
   AkishinoShiame@GitHub ~ % UserInfo -a
   
   AkishinoShiame@GitHub ~ % ▮
