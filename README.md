@@ -19,18 +19,7 @@ Here are some ideas to get you started:
 
 
 ```bash
-  AkishinoShiame@GitHub ~ % UserInfo -a <br>
-  - 🔭 I’m currently working on ... <br>
-  AkishinoShiame@GitHub ~ % ▮ <br>
+  AkishinoShiame@GitHub ~ % UserInfo -a
+  - 🔭 I’m currently working on ...
+  AkishinoShiame@GitHub ~ % ▮
 ```
-
-<style
-  type="text/css">
-p {color:blue;}
-</style>
-
-<p>
-  AkishinoShiame@GitHub ~ % UserInfo -a <br>
-  - 🔭 I’m currently working on ... <br>
-  AkishinoShiame@GitHub ~ % ▮ <br>
-</p>
