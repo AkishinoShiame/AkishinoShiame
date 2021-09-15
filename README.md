@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="color:green !important;background-color:black !important;">
+<span style="color:green;">
   AkishinoShiame@GitHub ~ % UserInfo -a
   
   AkishinoShiame@GitHub ~ % ▮
