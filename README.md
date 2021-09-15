@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 ---
 
+
+```bash
+  AkishinoShiame@GitHub ~ % UserInfo -a <br>
+  - 🔭 I’m currently working on ... <br>
+  AkishinoShiame@GitHub ~ % ▮ <br>
+```
+
+
 <div style="background: black !importent;color: green !importent;">
   AkishinoShiame@GitHub ~ % UserInfo -a <br>
   - 🔭 I’m currently working on ... <br>
