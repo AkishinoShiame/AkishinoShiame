@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✖︎ <tab>  MacOS　　　　　 　|➕
+### ✖︎ <tab> <tab>　　MacOS　　　　　 　|➕
 
 ---
 
