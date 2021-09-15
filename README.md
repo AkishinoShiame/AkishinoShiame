@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <style>
 .terminal-mac {
     background: black;
-    color: green;
+    color: green
 }
 
 <span class="terminal-mac">
