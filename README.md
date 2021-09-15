@@ -1,5 +1,3 @@
-###  MacOS |➕
-
 <!--
 **AkishinoShiame/AkishinoShiame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="color:green;">
+###  MacOS |➕
+
+---
+
+<style>
+.terminal-mac {
+    background: black;
+    color: green;
+}
+
+<span class="terminal-mac">
   AkishinoShiame@GitHub ~ % UserInfo -a
   
   AkishinoShiame@GitHub ~ % ▮
