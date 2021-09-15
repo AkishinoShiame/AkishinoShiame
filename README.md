@@ -24,9 +24,13 @@ Here are some ideas to get you started:
   AkishinoShiame@GitHub ~ % ▮ <br>
 ```
 
+<style
+  type="text/css">
+p {color:blue;}
+</style>
 
-<div style="background: black !importent;color: green !importent;">
+<p>
   AkishinoShiame@GitHub ~ % UserInfo -a <br>
   - 🔭 I’m currently working on ... <br>
   AkishinoShiame@GitHub ~ % ▮ <br>
-</div>
+</p>
