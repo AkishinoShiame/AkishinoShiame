@@ -73,3 +73,6 @@ Here are some ideas to get you started:
   ===============================================================================================
   AkishinoShiame@GitHub ~ % ▮
 ```
+
+
+![AkishinoShiameのGitHub stats](https://github-readme-stats.vercel.app/api?username=AkishinoShiame&theme=merko&show_icons=true)
