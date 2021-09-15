@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 ```
 
 
-![AkishinoShiameのGitHub stats](https://github-readme-stats.vercel.app/api?username=AkishinoShiame&theme=merko&show_icons=true)
+![AkishinoShiameのGitHub stats](https://github-readme-stats.vercel.app/api?username=AkishinoShiame&theme=chartreuse-dark&show_icons=true)
