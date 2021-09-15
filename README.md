@@ -23,8 +23,8 @@ Here are some ideas to get you started:
     color: green
 }
 
-<span class="terminal-mac">
+<div class="terminal-mac">
   AkishinoShiame@GitHub ~ % UserInfo -a
   
   AkishinoShiame@GitHub ~ % ▮
-</span>.
+</div>
