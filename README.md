@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 
-```bash
+```
   AkishinoShiame@GitHub ~ % UserInfo -a
   - 🔭 I’m currently working on ...
   AkishinoShiame@GitHub ~ % ▮
