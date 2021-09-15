@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="color:green !important;background-color:black !important;">
+<span style="color:green !important;background-color:black !important;">
   AkishinoShiame@GitHub ~ % UserInfo -a
   
   AkishinoShiame@GitHub ~ % ▮
