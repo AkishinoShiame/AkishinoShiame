@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="color:green;background-color:black">
-  AkishinoShiame@github.com ~ % UserInfo -a
+<div style="color:green;background-color:black">
+  AkishinoShiame@GitHub ~ % UserInfo -a
   
-  AkishinoShiame@github.com ~ % ▮
+  AkishinoShiame@GitHub ~ % ▮
 </span>.
