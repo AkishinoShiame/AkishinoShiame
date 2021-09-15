@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 ```
   AkishinoShiame@GitHub ~ % UserInfo -a
-  - 🔭 I’m currently working on ...
+  | Catagory                        | Repos                           |
+  =====================================================================
+  | I’m currently working on ...    |                                 |
+  |                                 ├ AkishinoShiame/UgokuIT          |
+  |                                 ├ AkishinoShiame/Sekai-Tuna-Story |
+  |                                 ├ AkishinoShiame/Sekai-Tuna       |
+  |                                 └ AkishinoShiame/Project-Sakura   |
   AkishinoShiame@GitHub ~ % ▮
 ```
