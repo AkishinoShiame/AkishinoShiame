@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 ```
 
 
-![AkishinoShiameのGitHub stats](https://github-readme-stats.vercel.app/api?username=AkishinoShiame&theme=chartreuse-dark&show_icons=true) ![AkishinoShiameが使う言語](https://github-readme-stats.vercel.app/api/top-langs/?username=AkishinoShiame&layout=compact&theme=chartreuse-dark)
+![AkishinoShiameのGitHub stats](https://github-readme-stats.vercel.app/api?username=AkishinoShiame&theme=chartreuse-dark&show_icons=true&locale=ja&include_all_commits=1) ![AkishinoShiameが使う言語](https://github-readme-stats.vercel.app/api/top-langs/?username=AkishinoShiame&theme=chartreuse-dark&layout=compact&langs_count=7&custom_title=AkishinoShiameが使う言語&card_width=350)
