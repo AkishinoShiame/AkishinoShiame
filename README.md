@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✖︎ <tab> <tab>　　MacOS　　　　　 　|➕
+### :heavy_multiplication_x: <tab>  :apple:MacOS　　　　　 　| :heavy_plus_sign:
 
 ---
 
