@@ -20,57 +20,57 @@ Here are some ideas to get you started:
 
 ```
   AkishinoShiame@GitHub.com ~ % UserInfo -a
-  | Catagory                        | Repos                                                     |
-  ===============================================================================================
-  | I’m currently working on ...    |                                                           |
-  |                                 ├ AkishinoShiame/UgokuIT                                    |
-  |                                 ├ AkishinoShiame/Sekai-Tuna-Story                           |
-  |                                 ├ AkishinoShiame/Sekai-Tuna                                 |
-  |                                 └ AkishinoShiame/Project-Sakura                             |
-  -----------------------------------------------------------------------------------------------
-  | Maybe Dead ...                  |                                                           |
-  |                                 └ AkishinoShiame/Re-Zero-Python-Waza                        |
-  -----------------------------------------------------------------------------------------------
-  | AI Projects                     |                                                           |
-  |                                 ├ AkishinoShiame/AI-Kernel                                  |
-  |                                 ├ AkishinoShiame/Graduated-Project                          |
-  |                                 ├ AkishinoShiame/Virtual-Elderly-Chatbot-IOS-Project-IOS-12 |
-  |                                 ├ AkishinoShiame/Virtual-Elderly-Chatbot-Server-Structure   |
-  |                                 ├ AkishinoShiame/Virtual-Elderly-Chatbot-App                |
-  |                                 └ AkishinoShiame/Virtual-Elderly-Chatbot-IOS-Project        |
-  -----------------------------------------------------------------------------------------------
-  | DeepLearning Datasets           |                                                           |
-  |                                 ├ AkishinoShiame/Chinese-Speech-Emotion-Datasets            |
-  |                                 ├ AkishinoShiame/Speech-Dataset-in-scikit-learn             |
-  |                                 ├ AkishinoShiame/Chinese-Menu-Recognition-App-Dataset       |
-  |                                 ├ AkishinoShiame/Word2Vec_High                              |
-  -----------------------------------------------------------------------------------------------
-  | Persional Site                  |                                                           |
-  |                                 ├ AkishinoShiame/AkishinoShiame.github.io                   |
-  |                                 └ AkishinoShiame/urasaito                                   |
-  -----------------------------------------------------------------------------------------------
-  | Hackathons                      |                                                           |
-  |                                 ├ AkishinoShiame/AWS_Hack-n-Roll                            |
-  |                                 ├ AkishinoShiame/OpenFreePay                                |
-  |                                 └ AkishinoShiame/JJG_project                                |
-  -----------------------------------------------------------------------------------------------
-  | Documentations                  |                                                           |
-  |                                 ├ AkishinoShiame/Documentation                              |
-  |                                 ├ AkishinoShiame/hadoop-1.2.1-Single_Node_Setup             |
-  |                                 └ AkishinoShiame/GrayLog-Multi_Node                         |
-  -----------------------------------------------------------------------------------------------
-  | Finished Projects               |                                                           |
-  |                                 ├ AkishinoShiame/IPv6-Conclude_final                        |
-  |                                 └ AkishinoShiame/Daigaku-Kennkyu                            |
-  -----------------------------------------------------------------------------------------------
-  | Learning Stuffs                 |                                                           |
-  |                                 ├ AkishinoShiame/Python_IoT-learning                        |
-  |                                 ├ AkishinoShiame/theano-learning_main                       |
-  |                                 ├ AkishinoShiame/theano-learning.part03                     |
-  |                                 ├ AkishinoShiame/theano-learning.part01                     |
-  |                                 ├ AkishinoShiame/theano-learning.part02                     |
-  |                                 └ AkishinoShiame/aitalk                                     |
-  ===============================================================================================
+  | Catagory                        | Repos                                                     | Extra              |
+  ====================================================================================================================
+  | I’m currently working on ...    |                                                           |                    |
+  |                                 ├ AkishinoShiame/UgokuIT                                    |                    |
+  |                                 ├ AkishinoShiame/Project-Sakura                             |                    |
+  |                                 ├ AkishinoShiame/Sekai-Tuna                                 |                    |
+  |                                 └ AkishinoShiame/Sekai-Tuna-Story                           | Sub Repo of above. |
+  --------------------------------------------------------------------------------------------------------------------
+  | Maybe Dead ...                  |                                                           |                    |
+  |                                 └ AkishinoShiame/Re-Zero-Python-Waza                        |                    |
+  --------------------------------------------------------------------------------------------------------------------
+  | AI Projects                     |                                                           |                    |
+  |                                 ├ AkishinoShiame/AI-Kernel                                  |                    |
+  |                                 ├ AkishinoShiame/Graduated-Project                          |                    |
+  |                                 ├ AkishinoShiame/Virtual-Elderly-Chatbot-IOS-Project-IOS-12 |                    |
+  |                                 ├ AkishinoShiame/Virtual-Elderly-Chatbot-Server-Structure   |                    |
+  |                                 ├ AkishinoShiame/Virtual-Elderly-Chatbot-App                |                    |
+  |                                 └ AkishinoShiame/Virtual-Elderly-Chatbot-IOS-Project        |                    |
+  --------------------------------------------------------------------------------------------------------------------
+  | DeepLearning Datasets           |                                                           |                    |
+  |                                 ├ AkishinoShiame/Chinese-Speech-Emotion-Datasets            |                    |
+  |                                 ├ AkishinoShiame/Speech-Dataset-in-scikit-learn             |                    |
+  |                                 ├ AkishinoShiame/Chinese-Menu-Recognition-App-Dataset       |                    |
+  |                                 ├ AkishinoShiame/Word2Vec_High                              |                    |
+  --------------------------------------------------------------------------------------------------------------------
+  | Persional Site                  |                                                           |                    |
+  |                                 ├ AkishinoShiame/AkishinoShiame.github.io                   |                    |
+  |                                 └ AkishinoShiame/urasaito                                   |                    |
+  --------------------------------------------------------------------------------------------------------------------
+  | Hackathons                      |                                                           |                    |
+  |                                 ├ AkishinoShiame/AWS_Hack-n-Roll                            |                    |
+  |                                 ├ AkishinoShiame/OpenFreePay                                |                    |
+  |                                 └ AkishinoShiame/JJG_project                                |                    |
+  --------------------------------------------------------------------------------------------------------------------
+  | Documentations                  |                                                           |                    |
+  |                                 ├ AkishinoShiame/Documentation                              |                    |
+  |                                 ├ AkishinoShiame/hadoop-1.2.1-Single_Node_Setup             |                    |
+  |                                 └ AkishinoShiame/GrayLog-Multi_Node                         |                    |
+  --------------------------------------------------------------------------------------------------------------------
+  | Finished Projects               |                                                           |                    |
+  |                                 ├ AkishinoShiame/IPv6-Conclude_final                        |                    |
+  |                                 └ AkishinoShiame/Daigaku-Kennkyu                            |                    |
+  --------------------------------------------------------------------------------------------------------------------
+  | Learning Stuffs                 |                                                           |                    |
+  |                                 ├ AkishinoShiame/Python_IoT-learning                        |                    |
+  |                                 ├ AkishinoShiame/theano-learning_main                       |                    |
+  |                                 ├ AkishinoShiame/theano-learning.part03                     |                    |
+  |                                 ├ AkishinoShiame/theano-learning.part01                     |                    |
+  |                                 ├ AkishinoShiame/theano-learning.part02                     |                    |
+  |                                 └ AkishinoShiame/aitalk                                     |                    |
+  ====================================================================================================================
   AkishinoShiame@GitHub.com ~ % ▮
 ```
 
