@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ```
-  AkishinoShiame@GitHub ~ % UserInfo -a
+  AkishinoShiame@GitHub.com ~ % UserInfo -a
   | Catagory                        | Repos                                                     |
   ===============================================================================================
   | I’m currently working on ...    |                                                           |
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   |                                 ├ AkishinoShiame/theano-learning.part02                     |
   |                                 └ AkishinoShiame/aitalk                                     |
   ===============================================================================================
-  AkishinoShiame@GitHub ~ % ▮
+  AkishinoShiame@GitHub.com ~ % ▮
 ```
 
 
